@@ -30,7 +30,6 @@ The dataset includes user listening history from Spotify, covering albums, artis
 ![Top Tracks](screenshots/top_tracks.png)  
 ![Listening Heatmap](screenshots/heatmap.png)  
 
-> Screenshots located in the `/screenshots` folder.
 
 ## 📁 How to Use
 
